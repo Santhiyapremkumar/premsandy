@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int array[50],size,i,largest;
+printf("enter the size of the array:");
+scanf("%d",&size);
+printf("enter % elements of the array:",size);
+for(i= 0;i<size;i+)
+scanf("%d",&array[0];
+{
+if(largest<array[i])largest=array[i];
+printf("largest element present in the given arrayis:%d",largest);
+return 0;
+}
